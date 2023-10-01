@@ -3,10 +3,10 @@ let user = {
     name: 'John',
     surname: 'Smith',
 }
-console.log(user);
+alert(user);
 
 user.name = "Pete";
-console.log(user.name);
+alert(user.name);
 
 delete user.name;
 //задание 2
